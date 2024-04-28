@@ -1,0 +1,32 @@
+body{
+    background-image: url(./picture/istockphoto-1202419927-1024x1024.jpg);
+}
+li{
+    float: right;
+    display: inline-block;
+    margin-left: 50px;
+    text-align: right;
+}
+h1{
+    text-align: center;
+    margin-top: 25%;
+}
+div{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+div>b{
+    display: inline-block;
+    border:2px solid rgb(44, 43, 43);
+    border-radius: 10px;
+    background-color: rgb(10, 182, 235);
+    
+margin-left: 5px;
+    
+}
+div>b[id="b2"]{
+    background-color: rgb(243, 242, 239);
+}
+
