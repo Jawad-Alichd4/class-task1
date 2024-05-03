@@ -4,7 +4,7 @@ body{
 li{
     float: right;
     display: inline-block;
-    margin-left: 50px;
+    margin-left: 25%;
     text-align: right;
 }
 h1{
@@ -20,10 +20,10 @@ p{
 div>b{
     display: inline-block;
     border:2px solid rgb(44, 43, 43);
-    border-radius: 10px;
+    border-radius: 5%;
     background-color: rgb(10, 182, 235);
     
-margin-left: 5px;
+margin-left: 5%;
     
 }
 div>b[id="b2"]{
